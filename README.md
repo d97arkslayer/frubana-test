@@ -13,6 +13,8 @@ npm install
 
 ### Problem One: Median
 
+**The time needed to solve this problem was one hour and 30 minutes.**
+
 ```bash
 node median/index.js
 ```
@@ -20,5 +22,7 @@ In the execution console, you will place the instructions, taking into account t
 
 Once the instructions are entered to the console.
 The following combination of keys ( **CTRL + D** on UNIX based systems or **CMD + D** on mac OS operating system) must be executed to obtain the result of executing the instructions given
+
+
 
 

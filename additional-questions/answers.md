@@ -3,7 +3,7 @@
 
 
 1.	**Debe cumplir con el principio de responsabilidad única:** Cada clase, cada método o cualquier otra entidad debería permanecer sin cambios. Dicho de otra manera, una clase debe tener una y sólo una causa por la cual pueda ser modificada.
-2. **El lenguaje el elegido para escribir el código debería parecer que fue hecho para el problema: **
+2. **El lenguaje el elegido para escribir el código debería parecer que fue hecho para el problema:**
    No es el lenguaje lo que hace parecer simple a un problema, sino que es el desarrollador que hace que el lenguaje parezca simple.
 3.	**Don't Repeat Yourself:** La modificación de un único elemento del sistema no requiere cambios en otros elementos con los que no tenga relación lógica.
 4. **Comprensible y fácil de leer:** Se debe sentir que es fácil de leer por cualquier desarrollador sin pasar horas revisándolo, para lograr esto el código debe ser simple, la simplicidad tiene que ser un elemento clave del diseño, y se debe evitar la complejidad innecesaria.

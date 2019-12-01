@@ -16,7 +16,7 @@ npm install
 **The time needed to solve this problem was one hour and 30 minutes.**
 
 ```bash
-node solved-problems/mediam.js
+node solved-problems/median.js
 ```
 In the execution console, you will place the instructions, taking into account that line one is the number of orders that will be executed, and the following will be the orders that can be: **r x** to remove from the list **a x** to add to the list where x It is any number.
 

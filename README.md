@@ -23,6 +23,18 @@ In the execution console, you will place the instructions, taking into account t
 Once the instructions are entered to the console.
 The following combination of keys ( **CTRL + D** on UNIX based systems or **CMD + D** on mac OS operating system) must be executed to obtain the result of executing the given instructions 
 
+### Problem Two: Tree
+
+**The time needed to solve this problem was one nine hours and 45 minutes.**
+
+```bash
+node solved-problems/tree.js
+```
+In the execution console, you will place the instructions.
+
+Once the instructions are entered to the console.
+The following combination of keys ( **CTRL + D** on UNIX based systems or **CMD + D** on mac OS operating system) must be executed to obtain the result of executing the given instructions 
+
 
 
 
